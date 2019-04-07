@@ -1,2 +1,2 @@
-# helloandrois
+# helloandroid
 introduction to kotlin/adnroid
